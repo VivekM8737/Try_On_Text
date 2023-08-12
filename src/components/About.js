@@ -11,7 +11,7 @@ export default function About(probs){
             <div className="row">
                 <div className="col m-1">
                     <h3>Contacts</h3>
-                    <p>Email Id: vivekmishra1526@gmail.com</p>
+                    <p>Email Id: mishra1526@gmail.com</p>
                 </div>
                 <div></div>
                 <div className="col m-1">
