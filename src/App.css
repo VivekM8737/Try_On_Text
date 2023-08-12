@@ -1,0 +1,30 @@
+.mar{
+  margin: 2px;
+}
+.ht{
+  height: 50px;
+}
+.br{
+  border: 2px solid black;
+}
+.back{
+  opacity: .8;
+  background-color: beige;
+}
+.heading{
+  text-align: left;
+}
+.bg1{
+  background-color: rgb(209, 230, 230);
+  color: black;
+ }
+ .bt-c:hover{
+    cursor: copy;
+ }
+/*body {
+  background-image: url("aa.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+} */
